@@ -1,0 +1,1 @@
+datahora, temperatura, pressão, humidade, radiação
