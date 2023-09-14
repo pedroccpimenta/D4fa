@@ -1,5 +1,7 @@
 #!/bin/bash
 
+git config –global user. pedroccpimenta/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
+
 echo "Starting act" > log_act.txt
 
 echo ppimenta | mysql -e "use BAZE; select data, temp, pressao, humidade, radiacao from baze21r where fonte='itecons' order by data into outfile 'CVerdevarios.csv' FIELDS TERMINATED BY ';';" -uppimenta -ppim53enta
