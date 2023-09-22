@@ -39,7 +39,8 @@ This email is processed around 12AM, and, thus, by 12AM the data lake is updated
 (Please check [https://baze.cm-maia.pt/BaZe/consumoe.htm?cpe=PISCGFPRODFV](https://baze.cm-maia.pt/BaZe/consumoe.htm?cpe=PISCGFPRODFV))
 
 *Note*: 
-In the past days, I'm receiving the following error message:
+- We have received data from June 1st to September 8th - from this data the email message reports the error bellow:
+- In the past days, I'm receiving the following error message:
 ![Error message](./pics/swerr.png)  
 I've already reported this situation to Fronius.
 
