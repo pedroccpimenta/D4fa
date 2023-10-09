@@ -22,7 +22,7 @@ This data is maintained in the folder HistoriMetro, file CVerdevarios.csv, struc
 - humidade_Rel - Relative Humidity (%)
 - radiação_W/m2 - solar radiation (W/m<sup>2</sup>)
 
-These values are captured by a meteorological station (ATMOS 41, cf. [datasheet](https://drive.google.com/drive/folders/1B8mCD9H7tJNS8jItDm71c3OLzMOxOWcd), located in "Cobertura Verde" (Lat: 41.234158, Lng: -8.623050), and updated to Maia Municipality data lake every 15 minutes.
+These values are captured by a meteorological station (ATMOS 41, cf. [datasheet]([https://drive.google.com/drive/folders/1B8mCD9H7tJNS8jItDm71c3OLzMOxOWcd](https://drive.google.com/drive/folders/1B8mCD9H7tJNS8jItDm71c3OLzMOxOWcd)), located in "Cobertura Verde" (Lat: 41.234158, Lng: -8.623050), and updated to Maia Municipality data lake every 15 minutes.
 
 (Please check [https://baze.cm-maia.pt/BaZe/cverde3.htm](https://baze.cm-maia.pt/BaZe/cverde3.htm))
 
