@@ -12,12 +12,12 @@ The [CVerdevarios.csv](https://github.com/pedroccpimenta/D4fa/blob/main/HistoriM
 ## Ploting Temp and Radiation
 The very first task would be to 'study' then data and be able to use wathever tool you prefer to plot the Temperature and Radiation against date - the overall behaviour of these variables can be shown at 
 
-![Tableau charts]('Sumário T e Irrad (1).png') "Tableau charts")
+![Tableau charts](Sumário%20T%20e%20Irrad%20(1).png) "Tableau charts")
 
 https://public.tableau.com/app/profile/pedroccpimenta/viz/D4fa/SumrioTeIrrad
 
 
-### Older examples
+### Previous examples
 ![Octave Plot](https://github.com/pedroccpimenta/D4fa/blob/main/HistoriMeteo/CVerdeTempRad.jpg?raw=true "Octave plot")
 
 We can also plot the variables across 'the same months', resulting in:
