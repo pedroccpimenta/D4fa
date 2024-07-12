@@ -71,6 +71,9 @@ These values are reported for 4 different locations, viz:
 - Getting JSON objects from geoserver 
 - Converting the coordinates to WGS 84
 - Ploting with Descartes (/matplotlib)
+- Using geojson.io to plot geoJSON from a REST endpoint
+
+Full script available [./jupyter/Geoserver.ipynb](./jupyter/Geoserver.ipynb)
 
 ## Follow-up
 For more information about this data, or improvement suggestions, please contact ppimenta@ipmaia.pt.
