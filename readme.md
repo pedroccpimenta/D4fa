@@ -79,5 +79,4 @@ Full script available [./jupyter/Geoserver.ipynb](./jupyter/Geoserver.ipynb)
 For more information about this data, or improvement suggestions, please contact ppimenta@ipmaia.pt.
 
 
-
 PCP, July 12th 2024
