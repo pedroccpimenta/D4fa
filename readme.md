@@ -66,9 +66,15 @@ These values are reported for 4 different locations, viz:
 
 (Please check [https://baze.cm-maia.pt/BaZe/pwall2.htm](https://baze.cm-maia.pt/BaZe/pwall2.htm))
 
+## Jupyter notebook - Getting JSON and geoJSON datasets and charting them using Descartes
+
+- Getting JSON objects from geoserver 
+- Converting the coordinates to WGS 84
+- Ploting with Descartes (/matplotlib)
 
 ## Follow-up
 For more information about this data, or improvement suggestions, please contact ppimenta@ipmaia.pt.
 
 
-PCP, September 20th 2023
+
+PCP, July 12th 2024
